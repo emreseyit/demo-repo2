@@ -1,4 +1,7 @@
 # DEMO
 
 Some plain text description!
-<Added this text>
+
+## Subheader
+
+This is a change made externally.
